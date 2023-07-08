@@ -1,0 +1,177 @@
+.container3{
+    position: relative;
+    top: 4rem;
+    left: 1cm;
+    height: 7cm;
+    width: 90%;
+    background-color: white;
+    border-radius: 50px;
+
+}
+.c-head{
+    position: relative;
+    top: 2rem;
+    left: 1rem;
+    font-size: 10px;
+}
+.hrs{
+    font-size: 15px;
+    font-weight: 600;
+    cursor: pointer;
+}
+.precp{
+    color: gray;
+    background: #dfdddd;
+    border-radius: 50px;
+    padding: 3px 15px;
+    cursor: no-drop;
+    
+}
+.days{
+    font-weight: 500;
+    background-color: aliceblue;
+    border-radius: 50px;
+    width: 2cm;
+    padding: 4px;
+    text-align: center;
+    cursor: pointer;
+
+}
+.area{
+    position: absolute;
+    top: 2cm;
+    left: 1cm;
+    height: 5cm;
+    font-size: 10px;
+    font-weight: 600;
+    width: 23.7cm;
+}
+.line{
+    border-left: solid 2px black;
+    height: 2cm;
+    position:relative;
+    left: 1rem;
+}
+.poly{
+    position: relative;
+    bottom:6.7cm;
+    left: 1.1cm;
+    clip-path: polygon(20% 93%, 35% 95%, 60% 86%, 73% 93%, 87% 96%, 100% 95%, 100% 85%, 100% 100%, 95% 100%, 15% 100%, 0 100%, 0 96%);
+    background-color: rgb(87, 163, 234);
+    width: 88%;
+    height: 12cm;
+}
+.contain{
+    position: absolute;
+    bottom: 7.54cm;
+    left: 8cm;
+    background-color: rgb(207, 234, 243);
+    width:25cm;
+    height: 115vh;
+    border-radius: 50px;
+}
+.head{
+    position: relative;
+    top: 1cm;
+}
+.head1{
+    margin-left: 40px;
+    font-size: 20px;
+    font-weight: bolder;
+}
+.head2{
+    font-size: 13px;
+    font-weight: normal;
+}
+.dott{
+    background-color: black;
+}
+.dott:nth-child(1){
+    width: 4px !important;
+}
+.vector{
+    position: relative;
+    left: 15px;
+}
+.isabel{
+    width: 1cm;
+}
+.details{
+    position: relative;
+    top: 5rem;
+    left: 1cm;
+    font-size: 15px;
+    font-weight: 500;   
+}
+
+.p1{
+    width: 1cm;
+    height: 1rem;
+}
+
+.uv-p{
+    width: 25px;
+}
+table
+{
+position: relative;
+top: 2cm;
+left: 1cm;
+width: 100%;
+
+}
+.tt{
+    height: 5cm;
+    
+}
+.box{
+    height: 4cm;
+    width: 7cm;
+    border-radius: 30px;
+    background: white;
+    padding: 10px; 
+}
+
+.icon{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: rgb(36, 147, 232);
+    height: 1cm;
+    border-radius: 10px;
+}
+.percent{
+text-align: center;
+font-size: 1rem;
+}
+.prog4{
+    width: 1cm;
+}
+.precp-p{
+width: 10px;
+}
+.uv-font{
+    font-size: 12px;
+}
+.feels-p{
+    width: 5cm;
+}
+
+.chance-p{
+    width: 6cm;
+}
+.gauge{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.needle{
+    position: relative;
+    left: 1.8cm;
+    top: 10px;
+    transform: rotate(-160deg);
+}
+.good,.prog3,.uv-font,.rain{
+    color: gray;
+}
+

@@ -1,0 +1,14 @@
+body {
+  overflow-x: hidden;
+  margin: 0;
+  position:absolute;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 400vh;
+  padding: 0 10%;
+ 
+}
+
+
+
